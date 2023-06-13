@@ -1,7 +1,7 @@
 {
-  "name": "dijkstra",
+  "name": "diper",
   "version": "1.0.0",
-  "description": "node traversal in javascript ",
+  "description": "dijkstra path finding algorithm based on creeper world nodes",
   "main": "index.js",
   "scripts": {
     "test": "serve"
