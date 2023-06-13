@@ -1,0 +1,31 @@
+:root {
+    --canvas-width: 80%;
+}
+
+body {
+    width: 100vw;
+    height: 100vh;
+    margin: 0;
+    padding 0;
+}
+
+main {
+    display: flex;
+    flex-direction: horizontal;
+    height: 100%;
+}
+
+canvas {
+    display: block;
+    width: var(--canvas-width);
+}
+
+aside {
+    border-left: solid gray 0.01rem;
+}
+
+aside > * {
+    display: block;
+    width: 100%;
+    margin: 0.5em;
+}

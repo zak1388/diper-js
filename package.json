@@ -1,0 +1,11 @@
+{
+  "name": "dijkstra",
+  "version": "1.0.0",
+  "description": "node traversal in javascript ",
+  "main": "index.js",
+  "scripts": {
+    "test": "serve"
+  },
+  "author": "zak1388",
+  "license": "ISC"
+}
